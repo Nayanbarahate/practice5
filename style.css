@@ -2,7 +2,7 @@ body{
     background-image:url(./WhatsApp\ Image\ 2021-10-26\ at\ 8.32.09\ PM.jpeg);
     margin-bottom:80px;
     padding:5px;
-    border:10px sollid green;
+    border:5px ridge green;
     
 }
 
@@ -54,7 +54,7 @@ body{
     text-align:center;
     color:red;
 }
-.label{
+.table{
     margin:0;
 }
 .input-element{
@@ -86,4 +86,7 @@ body{
     margin:20px;
     text-align:center;
     width:400px;
-    height:230px;
+    height:230px;}
+
+
+    
